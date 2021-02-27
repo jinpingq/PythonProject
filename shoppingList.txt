@@ -1,0 +1,5 @@
+Fancy Table
+
+wood .... 10
+nails .... 53
+wood glue .... 2
